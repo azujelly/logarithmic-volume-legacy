@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "Logarithmic Volume Legacy",
+    "description": "Logarithmic Volume Control backported to Forge 1.8.9, which fixes the Minecraft volume sliders to work on a logarithmic scale.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/azujelly/logarithmic-volume-legacy",
+    "updateUrl": "",
+    "authorList": [
+      "girlbossdev",
+      "azujelly"
+    ],
+    "credits": "nea89o",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
